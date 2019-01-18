@@ -1,0 +1,8 @@
+{
+    "orgName": "workshops",
+    "description": "cpq",
+    "template": "0TT1U000002teIi",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
